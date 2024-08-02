@@ -6,6 +6,10 @@ Al adherirse a los principios de REST, los desarrolladores pueden crear APIs esc
 en diferentes plataformas y dispositivos. Con Node.js y frameworks como Express, la creación de APIs RESTful se ha vuelto sencilla, permitiendo 
 a los desarrolladores centrarse en construir aplicaciones robustas y eficientes.
 
+Uso de MongoDb como base de datos
+
+Uso de postman para pruebas de rutas 
+
 ## Instalación
 
 Ingresa en una terminal y ejecuta los siguientes comandos.
