@@ -12,11 +12,11 @@ Ingresa en una terminal y ejecuta los siguientes comandos.
 
     Baja el repositorio en tu maquina local:
 
-git clone https://github.com/gomezclaudio11/API-sequelize
+git clone https://github.com/gomezclaudio11/RESTAPIwithNode
 
     Ingresar en el proyecto:
 
-cd api-sequelize
+cd restapiWhithNode
 
     Instalar las dependecias:
 
