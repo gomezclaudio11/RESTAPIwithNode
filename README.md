@@ -20,10 +20,10 @@ cd restapiWhithNode
 
     Instalar las dependecias:
 
-npm install
+npm install  body-parser mongoose express 
 
     Correr el servidor de Node:
 
-npm start
+node app.js
 
 Nota: El servidor deberia correr en el puerto 3000 de su localhost.
